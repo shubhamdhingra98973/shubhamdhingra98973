@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shubham Dhingra</h1>
 <h5 align="left">As a software engineer, my passion lies in leveraging cutting-edge technology to solve complex problems and create innovative solutions. With a strong foundation in computer science and extensive experience in coding, testing, and deployment, I am dedicated to building robust and scalable software systems that meet the needs of modern businesses and organizations. </h5>
-<img align="right" alt="coding" width="600" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdhingra98973&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdhingra98973" /> </p>
 - 📫 How to reach me shubhamdhingra2201@gmail.com
 <h3 align="left">Connect with me:</h3>
